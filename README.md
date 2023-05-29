@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I am Harshit. A fellow programmer, data-scientist, academic physicist and massive emacs-nerd.<br>🔭 Currently working on a Data Extraction System using ML from Images and Invoices<br>👯 Looking to collaborate on HPC, Data-Science and everything in between ✨.<br>🤝 Always looking to learn about Data Skills and developments in the corresponding field.<br>🌱 Currently learning about Scala and Non-traditional applications of GANs<br>💬 Always down to have a chat about Physics, Maths, Data-Science, DC Universe, Formula 1 and Football<br>
+Hey, I am Harshit. A fellow programmer, data-scientist, academic physicist and massive vim(ex emacs)-nerd.<br>🔭 Currently working on a Data Extraction System using ML from Images and Invoices<br>👯 Looking to collaborate on HPC, Data-Science and everything in between ✨.<br>🤝 Always looking to learn about Data Skills and developments in the corresponding field.<br>🌱 Currently learning about Scala and Non-traditional applications of GANs<br>💬 Always down to have a chat about Physics, Maths, Data-Science, DC Universe, Formula 1 and Football<br>
 
 
 ## 🌐 Socials:
