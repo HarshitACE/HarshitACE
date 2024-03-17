@@ -1,7 +1,7 @@
 # About Me:
 Hey, I am Harshit. A software engineer, ex-data-scientist and academic physicist making software for the fastest cars on the planet and enjoying every second of it.
-+ Currently working on my next side project in stealth (nothting again lol)
-+ Looking to collaborate on HPC, Data-Science and everything in between.
++ Currently working on my next side project in stealth (not this again lol)
++ Looking to collaborate on HPC, Data-Science, Physics and everything in between.
 + Always looking to learn about Data Skills, software engineering and developments in the corresponding field.
 
 <br>💬 Always down to have a chat about Physics, Maths, Software Engineering, Data-Science, DC Universe, Formula 1 and Football<br>
